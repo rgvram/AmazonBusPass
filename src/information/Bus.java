@@ -1,4 +1,4 @@
-package assests;
+package information;
 
 public class Bus {
     private int busID;

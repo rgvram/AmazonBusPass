@@ -7,7 +7,6 @@ public class IdManager {
     public static IdManager getInstance() {
         if (idManager == null) {
             idManager = new IdManager();
-
         }
         return idManager;
     }

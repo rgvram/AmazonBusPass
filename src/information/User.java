@@ -1,4 +1,4 @@
-package assests;
+package information;
 
 /*
  * hard coded user Login Credentials <<temp>>

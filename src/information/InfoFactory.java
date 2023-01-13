@@ -1,7 +1,6 @@
-package assests;
+package information;
 
 import Managers.IdManager;
-import customExceptions.UserException;
 import customExceptions.AppException;
 
 /*

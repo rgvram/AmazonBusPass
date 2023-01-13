@@ -1,7 +1,7 @@
 package Managers;
 
 public class SeatManager {
-    public static SeatManager getInstance(){
+    public static SeatManager getInstance() {
         return null;
     }
 }

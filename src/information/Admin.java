@@ -1,4 +1,4 @@
-package assests;
+package information;
 
 /*
 * hard coded Admin login credentials <<temp>>
@@ -11,7 +11,7 @@ public class Admin {
     private String adminId;
     private String adminPassword;
 
-    public static Admin getAdminInstance() {
+    public static Admin getAdminobjInstance() {
         if(adminObj == null){
             adminObj = new Admin();
             adminObj.adminId = "admin";

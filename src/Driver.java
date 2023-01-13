@@ -6,7 +6,6 @@ import operations.AppDriver;
 */
 
 public class Driver {
-
     public static void main(String[] args) {
         System.out.println("Hello world!");
         AppDriver appDriver = new AppDriver();
